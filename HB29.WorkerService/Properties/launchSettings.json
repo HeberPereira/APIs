@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "hb29.WorkerService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+      }
+    }
+  }
+}
